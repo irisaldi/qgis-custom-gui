@@ -8,7 +8,7 @@ Collection of custom GUI, --or window dialog more specifically, by implementing 
 >   :exclamation: **Window dialog class in this module has been built and tested on QGIS 3.28 LTR.**
 >   
 
-#### + Class `LayerFieldFeatureWidget`
-    This dialog maps QGIS Project instances and extract its inheritances.
++ **Class `LayerFieldFeatureWidget`**
+  This dialog maps QGIS Project instances and extract its inheritances.
 
-    ![layerfieldfeaturewidget](/assets/layerfieldfeaturewidget.JPG)
+  ![layerfieldfeaturewidget](/assets/layerfieldfeaturewidget.JPG)
